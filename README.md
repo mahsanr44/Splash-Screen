@@ -1,4 +1,4 @@
-# flutter splash screen Assignment
+# Flutter Splash Screen Assignment
 
 A new Flutter project.
 
