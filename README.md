@@ -1,4 +1,4 @@
-# flutter_application_1
+# flutter splash screen Assignment
 
 A new Flutter project.
 
