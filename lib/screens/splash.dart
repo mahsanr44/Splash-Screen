@@ -1,7 +1,6 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:get/route_manager.dart';
-
 import 'home.dart';
 
 class SplashScreen extends StatefulWidget {
@@ -29,9 +28,13 @@ class _SplashScreenState extends State<SplashScreen> {
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: const [
-            Image(
-              image: AssetImage(
-                'assets/splashscreen.jpg',
+            SizedBox(
+              height: 100,
+              width: 200,
+              child: Image(
+                image: AssetImage(
+                  'assets/FB_IMG_1667225110044.jpg',
+                ),
               ),
             ),
             Padding(

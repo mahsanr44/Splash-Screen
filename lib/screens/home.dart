@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/container.dart';
-import 'package:flutter/src/widgets/framework.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -26,7 +24,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 'Assignment 2',
                 style: TextStyle(
                     color: Color.fromARGB(255, 33, 243, 145),
-                    fontSize: 22,
+                    fontSize: 20,
                     fontWeight: FontWeight.bold),
               ),
             ],
